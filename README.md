@@ -2,7 +2,7 @@
 
 This project analyses the international trade of China and tries to obtain trade linkages based on imports, exports, partner countries, comparative adavantages and intra-industry trade.
 
-This project is done by the students of Lal Bahadur Shastri Institute of Management (Batch: 2019 - 2021, Course: PGDM [Research and Business Analytics] ).
+The project 'Internation Business Environment Project - China' is done by the students of Lal Bahadur Shastri Institute of Management (Batch: 2019 - 2021, Course: PGDM [Research and Business Analytics] ).
 
 # Students' Names:
 1. Shubham Jain
